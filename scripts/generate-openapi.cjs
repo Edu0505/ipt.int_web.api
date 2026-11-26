@@ -24,7 +24,7 @@ const document = swaggerJSDoc({
     security: [{ GoogleBearer: [] }],
     servers: [
         { url: 'http://localhost:3000', description: 'Development server' },
-        { url: 'https://ipt-int-web-api.onrender.com', description: 'Production server' }
+        { url: 'https://projetofinal-99ma.onrender.com', description: 'Production server' }
       ],
   },
   apis: [
